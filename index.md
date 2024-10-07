@@ -37,7 +37,7 @@ seo:
 
 A deep dive into how SMT solvers work.
 
-There no required textbook for the course. We will use a variety of reading
+There is no required textbook for the course. We will use a variety of reading
 materials which will be linked from the lecture notes. That said, the following
 books provide important background:
 

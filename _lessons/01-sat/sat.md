@@ -25,7 +25,7 @@ References to the **Decision Procedures** book will noted as *DP*, while to the 
   - [Solving SAT and SAT Modulo Theories: From an abstract Davis--Putnam--Logemann--Loveland procedure to DPLL(T)](https://dl.acm.org/doi/10.1145/1217856.1217859)
 
 - SAT solving:
-  - Decision Procedures: Chapter 2
+  - DP: Chapter 2
   - [Slides by João Marques-Silva and Mikoláš Janota]({{ site.baseurl }}{% link _lessons/01-sat/Marques-Silva-sat-summerschool2013.pdf %})
   - [Slides by Marijn Heule]({{ site.baseurl }}{% link _lessons/01-sat/SCSC-Heule1.pdf %})
 
