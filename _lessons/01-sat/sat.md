@@ -26,6 +26,7 @@ References to the **Decision Procedures** book will noted as *DP*, while to the 
 
 - SAT solving:
   - DP: Chapter 2
+  - [Slides by Cesare Tinelli]({{ site.baseurl }}{% link _lessons/01-sat/cesare-sat-solving.pdf %})
   - [Slides by João Marques-Silva and Mikoláš Janota]({{ site.baseurl }}{% link _lessons/01-sat/Marques-Silva-sat-summerschool2013.pdf %})
   - [Slides by Marijn Heule]({{ site.baseurl }}{% link _lessons/01-sat/SCSC-Heule1.pdf %})
 
