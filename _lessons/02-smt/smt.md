@@ -25,7 +25,7 @@ References to the **Decision Procedures** book will noted as *DP*, while to the 
 - Theory solvers (EUF, IDL, Arrays)
   - CC: 3
   - DP: 4, 5.7, 7
-  - [Slides by Bruno Andreotti]({{ site.baseurl }}{% link _lessons/02-smt/bruco-cc.pdf %}) on congruence closure
+  - [Slides by Bruno Andreotti]({{ site.baseurl }}{% link _lessons/02-smt/bruno-cc.pdf %}) on congruence closure
   - [Slides by Cesare Tinelli]({{ site.baseurl }}{% link _lessons/02-smt/cesare-th-auf-idl.pdf %})
 
 - Theory solvers (Arithmetic)
