@@ -30,4 +30,4 @@ References to the **Decision Procedures** book will noted as *DP*, while to the 
 
 - Theory solvers (Arithmetic)
   - DP: 5.1, 5.2
-  - [Slides by Cesare Tinelli]({{ site.baseurl }}{% link _lessons/02-smt/cesare-th-ariht.pdf %})
+  - [Slides by Cesare Tinelli]({{ site.baseurl }}{% link _lessons/02-smt/cesare-th-arith.pdf %})
