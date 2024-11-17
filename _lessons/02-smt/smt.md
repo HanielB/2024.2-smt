@@ -28,7 +28,7 @@ References to the **Decision Procedures** book will noted as *DP*, while to the 
   - [Slides by Bruno Andreotti]({{ site.baseurl }}{% link _lessons/02-smt/bruno-cc.pdf %}) on congruence closure
   - [Slides by Cesare Tinelli]({{ site.baseurl }}{% link _lessons/02-smt/cesare-th-auf-idl.pdf %})
 
-- Theory solvers (Arithmetic)
+- Theory solvers (Linear Real Arithmetic)
   - DP: 5.1, 5.2
   - [Slides by Cesare Tinelli]({{ site.baseurl }}{% link _lessons/02-smt/cesare-th-arith.pdf %})
   - [A Fast Linear-Arithmetic Solver for DPLL(T)]({{ site.baseurl }}{% link _lessons/02-smt/Dutertre2006.pdf %})
