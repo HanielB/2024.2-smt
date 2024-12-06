@@ -19,3 +19,6 @@ title: Tópico 03 - Theory Solvers
 
 18 Nov
 : Exam 1
+
+20 Nov
+: No class (holiday)
