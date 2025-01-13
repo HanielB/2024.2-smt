@@ -1,5 +1,5 @@
 ---
-title: Tópico 01 - SAT solving
+title: Topic 01 - SAT solving
 ---
 
 ## {{ page.title }}

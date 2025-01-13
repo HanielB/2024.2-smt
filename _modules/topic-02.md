@@ -1,5 +1,5 @@
 ---
-title: Tópico 02 - SMT solving basics
+title: Topic 02 - SMT solving basics
 ---
 
 ## {{ page.title }}

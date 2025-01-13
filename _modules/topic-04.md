@@ -1,5 +1,5 @@
 ---
-title: Tópico 03 - Theory Solvers
+title: Topic 04 - Quantifiers
 ---
 
 ## {{ page.title }}
@@ -9,4 +9,4 @@ title: Tópico 03 - Theory Solvers
 : [**Quantifiers in SMT**](https://hanielbarbosa.com/talks/sat-smt-school2024.pdf)
 
 4 Nov
-: : Laboratory: SMT theory solvers
+: Laboratory: SMT theory solvers

@@ -1,5 +1,5 @@
 ---
-title: Tópico 03 - Theory Solvers
+title: Topic 03 - Theory Solvers
 ---
 
 ## {{ page.title }}
