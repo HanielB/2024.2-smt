@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SMT solving
+title: Proofs
 ---
 
 # SMT Solving
